@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sankalpapharande
-- 👀 I’m interested in using my knowledge to culminate into something that leads to society's development as a whole. 
+- 👀 I’m interested in using my knowledge to culminate into something that leads to society's development as a whole.
+- 📚 I'm currently pursuing Master of Science in Computer Sciene at Columbia University.
+- 👨🏻‍🎓 I'm 2019 graduate from Indian Institute of Technology, Kharagpur with Institute Silver Medal. 
 - 🌱 I’m currently learning Computer Vision, NLP, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on anything involving AI/ML for something good
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sankalpapharande/) | [Twitter](https://twitter.com/sankalp_1501)  | [Instagram](https://www.instagram.com/spaceboy_._/)
