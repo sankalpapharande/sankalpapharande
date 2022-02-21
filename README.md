@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything involving AI/ML for something good
 - 📫 Connect with me: ![LinkedIn](https://www.linkedin.com/in/sankalpapharande/) | ![Twitter](https://twitter.com/sankalp_1501)  | ![Instagram](https://www.instagram.com/spaceboy_._/)
 
-![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=sankalpapharande
+![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=sankalpapharande)
 
 
 <!---
