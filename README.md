@@ -2,7 +2,7 @@
 - 👀 I’m interested in using my knowledge leads to society's development as a whole.
 - 📚 I'm currently pursuing Master of Science in Computer Science at [Columbia University](https://www.columbia.edu/).
 - 👨🏻‍🎓 I'm 2019 graduate from [Indian Institute of Technology, Kharagpur](https://en.wikipedia.org/wiki/IIT_Kharagpur) as Department Topper and with Institute Silver Medal. 
-- 💡 I am currently learning Distributed Systems, Scalable Deep Learning Systems, and Concurrent Programming
+- 💡 I am currently learning Distributed Systems, Scalable Deep Learning Systems, and Concurrent Programming in GoLang
 - 🌱 I’ve hands on experience on bulding scalable ML systems
 - 💻 I have experence in Computer Vision, NLP, Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on anything involving AI/ML for something good
