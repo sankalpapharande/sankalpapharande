@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sankalpapharande
-- 👀 I’m interested in using my knowledge leads to society's development as a whole.
+- ❤️‍🔥 I am passionate about building the backend 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐢𝐧𝐠 scalable ML systems in a fast-paced environment
 - 📚 I'm currently pursuing Master of Science in Computer Science at [Columbia University](https://www.columbia.edu/).
 - 👨🏻‍🎓 I'm 2019 graduate from [Indian Institute of Technology, Kharagpur](https://en.wikipedia.org/wiki/IIT_Kharagpur) as Department Topper and with Institute Silver Medal. 
 - 💡 I am currently learning Distributed Systems, Scalable Deep Learning Systems, and Concurrent Programming in GoLang
