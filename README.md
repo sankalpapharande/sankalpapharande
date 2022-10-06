@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @sankalpapharande. This is [my resume](https://drive.google.com/file/d/142aVJoFa6kdRozFWTZFjIRzPFv0p2kRw/view?usp=sharing)
+- 👋 Hi, I'm Sankalp Apharande. This is [my resume](https://drive.google.com/file/d/1tYACD9j2VGTUKsS8EVbhSdjid-ZdGKWA/view?usp=sharing)
 - ❤️‍🔥 I am passionate about building the backend of scalable ML systems in a fast-paced environment
 - 📚 I'm currently pursuing a Master of Science in Computer Science at [Columbia University](https://www.columbia.edu/).
 - 👨🏻‍🎓 I'm a 2019 graduate from [Indian Institute of Technology, Kharagpur](https://en.wikipedia.org/wiki/IIT_Kharagpur) as Department Topper and with Institute Silver Medal. 
